@@ -1,4 +1,4 @@
-FROM alpine:3.18
+FROM alpine:3
 
 RUN mkdir -p .config/helm/registry
 RUN mkdir /app
